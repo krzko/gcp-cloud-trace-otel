@@ -14,14 +14,11 @@ This tool is a **Proof of Concept** (PoC) as to how one could export the root sp
 git clone https://github.com/yourusername/gcp-cloud-trace-otel-converter.git
 ```
 
-git clone https://github.com/yourusername/gcp-cloud-trace-otel-converter.git
-
 2. Build the tool:
 
 ```sh
 cd gcp-cloud-trace-otel-converter
 go build
-
 ```
 
 3. Authenticate to Google Cloud
